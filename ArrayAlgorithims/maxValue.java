@@ -1,4 +1,4 @@
-class Test {
+class MaxValue {
   public static int findMax(int[] arr) {
     int max = arr[0];
     for (int i = 0; i < arr.length; i++) {
